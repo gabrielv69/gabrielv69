@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gabriel Vivas</h1>
-<h3 align="center">A computer science student from Ecuador who loves coding</h3>
+<h3 align="center">A computer science student from Ecuador who loves programming</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -52,9 +52,8 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielv69&show_icons=true&locale=en&layout=compact" alt="gabrielv69" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielv69&show_icons=true&locale=en" alt="gabrielv69"  /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielv69&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="gabrielv69" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielv69&theme=ayu-mirage&show_icons=true&locale=en" alt="gabrielv69"  /></p>
 <!--
 **gabrielv69/gabrielv69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
