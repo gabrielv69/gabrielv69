@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gabriel Vivas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A computer science student from Ecuador who loves coding</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -50,6 +50,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielv69&show_icons=true&locale=en&layout=compact" alt="gabrielv69" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielv69&show_icons=true&locale=en" alt="gabrielv69"  /></p>
 
 <!--
 **gabrielv69/gabrielv69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
