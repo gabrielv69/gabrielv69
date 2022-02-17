@@ -52,7 +52,7 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielv69&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="gabrielv69" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielv69&langs_count=10&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="gabrielv69" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielv69&theme=ayu-mirage&show_icons=true&locale=en" alt="gabrielv69"  /></p>
 <!--
 **gabrielv69/gabrielv69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
