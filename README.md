@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gabriel Vivas</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">, I'm Gabriel Vivas</h1>
 <h3 align="center">A computer science student from Ecuador who loves programming</h3>
 
 <h3 align="left">Connect with me:</h3>
